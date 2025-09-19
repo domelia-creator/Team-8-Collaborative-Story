@@ -22,7 +22,7 @@ int main()
   // The stranger lowered the weapon and entered the halo of the Torch.
 
   cout << "Ranger: Name's Krestel. The traps are mine; the beasts are not." << endl;
-  cout << Krestel: If you're headed for the Vault, the path ahead is warded." << endl;
+  cout << "Krestel: If you're headed for the Vault, the path ahead is warded." << endl;
   cout << "Krestel: You will need a key of flame and a guide who knows where the dark runs deepest." << endl;
 
   // The Torch's flame bent like a compass needle, pointing through the trees.
