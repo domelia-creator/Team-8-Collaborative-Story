@@ -1,4 +1,4 @@
-// Program: chapter_1.cpp
+/// Program: chapter_1.cpp
 // Programmer: Grayson Nicolaisen
 
 #include <iostream>
