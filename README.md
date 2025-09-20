@@ -6,5 +6,5 @@ Read Chapter 1: The Big Fall (https://github.com/domelia-creator/Team-8-Collabor
 
 Read Chapter 2: Trapped (https://github.com/domelia-creator/Team-8-Collaborative-Story/blob/main/chapter_2.cpp)
 
-Read Chapter 3 (https://github.com/domelia-creator/Team-8-Collaborative-Story/blob/main/chapter_3.cpp)
+Read Chapter 3: Nets and Shadows (https://github.com/domelia-creator/Team-8-Collaborative-Story/blob/main/chapter_3.cpp)
 
