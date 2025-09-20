@@ -8,7 +8,7 @@ Read Chapter 2: Trapped (https://github.com/domelia-creator/Team-8-Collaborative
 
 Read Chapter 3: Nets and Shadows (https://github.com/domelia-creator/Team-8-Collaborative-Story/blob/main/chapter_3.cpp)
 
-Read Chapter 4: (https://github.com/domelia-creator/Team-8-Collaborative-Story/blob/main/chapter4.cpp)
+Read Chapter 4: When Silence Speaks (https://github.com/domelia-creator/Team-8-Collaborative-Story/blob/main/chapter4.cpp)
 
 
 
