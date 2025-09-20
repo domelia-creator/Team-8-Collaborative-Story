@@ -1,4 +1,4 @@
-// Program: chapter_4.cpp
+/// Program: chapter_4.cpp
 // Programmer: Kennedy Searcy
 
 #include <iostream>
