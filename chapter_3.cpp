@@ -1,4 +1,4 @@
-//Program: chapter_3.cpp
+///Program: chapter_3.cpp
 //Programmer: Nichaela Barela
 
 #include <iostream>
